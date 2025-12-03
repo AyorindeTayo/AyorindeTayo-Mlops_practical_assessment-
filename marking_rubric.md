@@ -10,6 +10,7 @@
 - Lambda/Docker correctness & I/O schema (15)
 - Local test / example invocation (10)
 
+
 ## Stage 3 — Case study (20)
 - Drift diagnosis depth (10)
 - Monitoring/retrain strategy (10)
