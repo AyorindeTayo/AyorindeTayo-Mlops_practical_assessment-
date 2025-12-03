@@ -16,6 +16,7 @@
 Use `SUBMISSION_TEMPLATE.md` to structure your deliverables and reproduction steps.
 
 
+
 # Instructions:
 
 You have been provided with a jupyter notebook (located in /notebooks). This notebook is a simple way of training a model and making a prediction. 
